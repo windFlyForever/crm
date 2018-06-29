@@ -3,8 +3,12 @@ package com._520it.crm.domain;
 public class Department {
     private Long id;
 
+    
+    
     private String sn;
 
+    
+    
     private String name;
 
     private Employee manger;
